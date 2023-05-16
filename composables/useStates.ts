@@ -1,0 +1,1 @@
+export const accessCompetitions = () => useState("competitions", () => []);
